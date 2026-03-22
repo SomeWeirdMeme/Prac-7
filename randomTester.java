@@ -33,6 +33,7 @@ public class randomTester
     }  
     
     public String getResponse(){
+        //Yello
         ArrayList<String> responseList = new ArrayList<>();
          
         responseList.add("yes");
